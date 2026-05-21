@@ -1,4 +1,3 @@
-# imse785
 Kansas State IMSE 785 - Big Data Analytics
 
 Used to store books, assignments, code, and projects in one space for easy referencing.
